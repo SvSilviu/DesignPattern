@@ -1,4 +1,4 @@
-package TheDecoratorPattern.StarBuzzCoffe;
+package TheDecoratorPattern;
 
 public class HouseBlend extends Beverage {
 
