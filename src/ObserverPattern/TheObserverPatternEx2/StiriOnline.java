@@ -1,4 +1,4 @@
-package TheObserverPattern.TheObserverPatternEx2;
+package ObserverPattern.TheObserverPattern.TheObserverPatternEx2;
 
 public class StiriOnline implements StiriObserver {
 

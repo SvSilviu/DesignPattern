@@ -1,4 +1,4 @@
-package TheObserverPattern.TheObserverPattern;
+package ObserverPattern.TheObserverPattern.TheObserverPattern;
 
 import java.util.Comparator;
 
