@@ -2,22 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="970b98a5-1603-4efd-8730-501c10a035d3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/TheDecoratorPattern/StarBuzzCoffe/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TheDecoratorPattern/Beverage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TheDecoratorPattern/StarBuzzCoffe/Cafea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TheDecoratorPattern/Cafea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TheDecoratorPattern/StarBuzzCoffe/CondimentDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TheDecoratorPattern/CondimentDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TheDecoratorPattern/StarBuzzCoffe/DarkRoast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TheDecoratorPattern/DarkRoast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TheDecoratorPattern/StarBuzzCoffe/Decaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TheDecoratorPattern/Decaf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TheDecoratorPattern/StarBuzzCoffe/Espresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TheDecoratorPattern/Espresso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TheDecoratorPattern/StarBuzzCoffe/HouseBlend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TheDecoratorPattern/HouseBlend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TheDecoratorPattern/StarBuzzCoffe/Milk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TheDecoratorPattern/Milk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TheDecoratorPattern/StarBuzzCoffe/Mocha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TheDecoratorPattern/Mocha.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TheDecoratorPattern/StarBuzzCoffe/Soy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TheDecoratorPattern/Soy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TheDecoratorPattern/StarBuzzCoffe/Whip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TheDecoratorPattern/Whip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/DecoratorPattern/CafeaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/FactoryPattern/PizzaFactory/PizzaStoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/EspressoCuZahar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/EspressoCuZaharSiFrisca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/PizzaFactory/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/PizzaFactory/ClamPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/PizzaFactory/PepperoniPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/PizzaFactory/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/PizzaFactory/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/PizzaFactory/SimplePizzaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/sasdasdasdasd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesingPattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesingPattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecoratorPattern/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecoratorPattern/Bautura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecoratorPattern/Cafea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecoratorPattern/CondimentDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecoratorPattern/DarkRoast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecoratorPattern/Decaf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecoratorPattern/Espresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecoratorPattern/Espresso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecoratorPattern/HouseBlend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecoratorPattern/Milk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecoratorPattern/Mocha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecoratorPattern/Soy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecoratorPattern/Whip.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,11 +54,67 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/mycode/DesignPattern/DesignPattern"
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "last_opened_file_path": "C:/mycode/Head-First-Design-Patterns-master/Head-First-Design-Patterns-master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="FactoryPattern.PizzaFactory" />
+      <recent name="DecoratorPattern" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PizzaStoreTest.test">
+    <configuration name="CafeaTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesingPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DecoratorPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DecoratorPattern" />
+      <option name="MAIN_CLASS_NAME" value="DecoratorPattern.CafeaTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PizzaStoreTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesingPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FactoryPattern.PizzaFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FactoryPattern.PizzaFactory" />
+      <option name="MAIN_CLASS_NAME" value="FactoryPattern.PizzaFactory.PizzaStoreTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PizzaStoreTest.test" />
+        <item itemvalue="JUnit.CafeaTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
