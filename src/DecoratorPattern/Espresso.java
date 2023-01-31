@@ -1,13 +1,16 @@
 package DecoratorPattern;
 
-public class Espresso extends Beverage {
+public class Espresso implements Bautura {
 
-    public Espresso() {
-        descriere = "Espresso";
+
+    @Override
+    public String descriere() {
+       return  "Eu sunt espresso simplu";
     }
 
     @Override
     public double cost() {
-        return 1.99;
+        return 1.5;
+
     }
 }
