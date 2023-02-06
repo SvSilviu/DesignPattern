@@ -31,11 +31,11 @@ public abstract class Pizza {
 
     @Override
     public String toString() {
-        return "Pizza ----- " +
-                "nume = " + nume + "\n" +
-                ", coca = " + coca + "\n" +
-                ", sos = " + sos + "\n" +
-                ", topping = " + topping;
+        return "----- Pizza ----- " +"\n"+
+                 nume + "\n" +
+                "coca = " + coca + "\n" +
+                "sos = " + sos + "\n" +
+                "topping = " + topping;
     }
 
     public String preparare() {
