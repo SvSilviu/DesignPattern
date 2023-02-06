@@ -3,6 +3,7 @@ package FactoryPattern.PizzaFactory;
 public class SimplePizzaFactory {
 
     public Pizza createPizza(String tip) {
+
         Pizza pizza = null;
 
         if (tip.equals("Cheese")) {

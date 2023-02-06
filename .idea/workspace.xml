@@ -2,30 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="970b98a5-1603-4efd-8730-501c10a035d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Test/DecoratorPattern/CafeaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/FactoryPattern/PizzaFactory/PizzaStoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/EspressoCuZahar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/EspressoCuZaharSiFrisca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/PizzaFactory/CheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/PizzaFactory/ClamPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/PizzaFactory/PepperoniPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/PizzaFactory/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/PizzaFactory/PizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/PizzaFactory/SimplePizzaFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryPattern/sasdasdasdasd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesingPattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesingPattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DecoratorPattern/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecoratorPattern/Bautura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DecoratorPattern/Cafea.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DecoratorPattern/CondimentDecorator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DecoratorPattern/DarkRoast.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DecoratorPattern/Decaf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DecoratorPattern/Espresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecoratorPattern/Espresso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DecoratorPattern/HouseBlend.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DecoratorPattern/Milk.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DecoratorPattern/Mocha.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DecoratorPattern/Soy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DecoratorPattern/Whip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/FactoryPattern/PizzaFactory/PizzaStoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/FactoryPattern/PizzaFactory/PizzaStoreTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/PizzaFactory/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FactoryPattern/PizzaFactory/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/PizzaFactory/SimplePizzaFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FactoryPattern/PizzaFactory/SimplePizzaFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,20 +32,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "create.test.in.the.same.root": "true",
-    "last_opened_file_path": "C:/mycode/Head-First-Design-Patterns-master/Head-First-Design-Patterns-master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/mycode/Head-First-Design-Patterns-master/Head-First-Design-Patterns-master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
