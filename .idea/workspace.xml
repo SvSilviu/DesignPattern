@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="970b98a5-1603-4efd-8730-501c10a035d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Test/SingletonPattern/basic/SingletonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SingletonPattern/a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SingletonPattern/basic/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SingletonPattern/basic/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/CommandPattern/remote/TelecomandaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/remote/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/remote/Jacuzzi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/remote/Lumina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/remote/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/remote/Telecomanda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/remote/UsaGaraj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/remote/VentilatorTavan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/sasdasdasdasd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FactoryPattern/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
         <option value="JUnit5 Test Class" />
       </list>
@@ -45,7 +50,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "create.test.in.the.same.root": "true",
-    "last_opened_file_path": "C:/mycode/Head-First-Design-Patterns-master/Head-First-Design-Patterns-master/src/headfirst/designpatterns/singleton"
+    "last_opened_file_path": "C:/mycode/Head-First-Design-Patterns-master/Head-First-Design-Patterns-master"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -53,11 +58,13 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="CommandPattern.remote" />
+      <recent name="SingletonPattern.basic" />
       <recent name="FactoryPattern.PizzaFactory" />
       <recent name="DecoratorPattern" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SingletonTest.singletonTest">
+  <component name="RunManager" selected="JUnit.TelecomandaTest.telecomandaTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SingletonPattern.basic.Main" />
       <module name="DesingPattern" />
@@ -119,10 +126,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TelecomandaTest.telecomandaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesingPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CommandPattern.remote.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CommandPattern.remote" />
+      <option name="MAIN_CLASS_NAME" value="CommandPattern.remote.TelecomandaTest" />
+      <option name="METHOD_NAME" value="telecomandaTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TelecomandaTest.telecomandaTest" />
         <item itemvalue="JUnit.SingletonTest.singletonTest" />
-        <item itemvalue="Application.SingletonPattern.basic.Main" />
         <item itemvalue="JUnit.PizzaStoreTest.test" />
         <item itemvalue="JUnit.CafeaTest.test" />
       </list>
