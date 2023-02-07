@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="970b98a5-1603-4efd-8730-501c10a035d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Test/CommandPattern/remote/TelecomandaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CommandPattern/a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CommandPattern/remote/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CommandPattern/remote/Jacuzzi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CommandPattern/remote/Lumina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CommandPattern/remote/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CommandPattern/remote/Telecomanda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CommandPattern/remote/UsaGaraj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CommandPattern/remote/VentilatorTavan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/CommandPattern/Ex2/TelecomandaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/Ex2/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/Ex2/Lumina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/Ex2/LuminaAprinsaCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/Ex2/LuminaOpritaCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/Ex2/Telecomanda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/Ex2/UsaGarajului.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommandPattern/Ex2/UsaGarajuluiComanda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,26 +57,14 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="CommandPattern.Ex2" />
       <recent name="CommandPattern.remote" />
       <recent name="SingletonPattern.basic" />
       <recent name="FactoryPattern.PizzaFactory" />
       <recent name="DecoratorPattern" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TelecomandaTest.telecomandaTest">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SingletonPattern.basic.Main" />
-      <module name="DesingPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SingletonPattern.basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TelecomandaTest.test">
     <configuration name="CafeaTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DesingPattern" />
       <extension name="coverage">
@@ -142,8 +129,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TelecomandaTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesingPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CommandPattern.Ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CommandPattern.Ex2" />
+      <option name="MAIN_CLASS_NAME" value="CommandPattern.Ex2.TelecomandaTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TelecomandaTest.test" />
         <item itemvalue="JUnit.TelecomandaTest.telecomandaTest" />
         <item itemvalue="JUnit.SingletonTest.singletonTest" />
         <item itemvalue="JUnit.PizzaStoreTest.test" />
