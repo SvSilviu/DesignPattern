@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="970b98a5-1603-4efd-8730-501c10a035d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Test/AdapterPattern/AudioPlayer/AudioAdapterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/AdapterPattern/Weather/WeatherAdapterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdapterPattern/AudioPlayer/AudioAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdapterPattern/AudioPlayer/AudioPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdapterPattern/AudioPlayer/MP3Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdapterPattern/Weather/WeatherAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdapterPattern/Weather/WeatherAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdapterPattern/Weather/WeatherProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdapterPattern/a.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SingletonPattern/basic/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingletonPattern/basic/Singleton.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
