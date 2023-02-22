@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="970b98a5-1603-4efd-8730-501c10a035d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Test/FacadePattern/Zoo/ZookeeperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FacadePattern/Zoo/Elephant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FacadePattern/Zoo/Giraffe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FacadePattern/Zoo/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FacadePattern/Zoo/Zookeeper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SingletonPattern/basic/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingletonPattern/basic/Singleton.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -50,14 +54,27 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="FacadePattern.Zoo" />
       <recent name="AdapterPattern.AudioPlayer" />
       <recent name="AdapterPattern.Weather" />
       <recent name="CommandPattern.Ex2" />
       <recent name="CommandPattern.remote" />
-      <recent name="SingletonPattern.basic" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AudioAdapterTest.test">
+  <component name="RunManager" selected="JUnit.ZookeeperTest.test">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FacadePattern.Zoo.Main" />
+      <module name="DesingPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FacadePattern.Zoo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AudioAdapterTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DesingPattern" />
       <extension name="coverage">
@@ -69,38 +86,6 @@
       <option name="PACKAGE_NAME" value="AdapterPattern.AudioPlayer" />
       <option name="MAIN_CLASS_NAME" value="AdapterPattern.AudioPlayer.AudioAdapterTest" />
       <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SingletonTest.singletonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DesingPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SingletonPattern.basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="SingletonPattern.basic" />
-      <option name="MAIN_CLASS_NAME" value="SingletonPattern.basic.SingletonTest" />
-      <option name="METHOD_NAME" value="singletonTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TelecomandaTest.telecomandaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DesingPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CommandPattern.remote.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="CommandPattern.remote" />
-      <option name="MAIN_CLASS_NAME" value="CommandPattern.remote.TelecomandaTest" />
-      <option name="METHOD_NAME" value="telecomandaTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -138,13 +123,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ZookeeperTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesingPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FacadePattern.Zoo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FacadePattern.Zoo" />
+      <option name="MAIN_CLASS_NAME" value="FacadePattern.Zoo.ZookeeperTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ZookeeperTest.test" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.AudioAdapterTest.test" />
         <item itemvalue="JUnit.WeatherAdapterTest.test" />
         <item itemvalue="JUnit.TelecomandaTest.test" />
-        <item itemvalue="JUnit.TelecomandaTest.telecomandaTest" />
-        <item itemvalue="JUnit.SingletonTest.singletonTest" />
       </list>
     </recent_temporary>
   </component>
